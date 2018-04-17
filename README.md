@@ -1,3 +1,4 @@
-# drocap
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+>Human Motion Capture Using a Drone.
+>X. Zhou, S. Liu, G. Pavlakos, V.J. Kumar, K. Daniilidis.
+>IEEE International Conference on Robotics and Automation (ICRA), 2018.
