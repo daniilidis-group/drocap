@@ -11,6 +11,9 @@ IEEE International Conference on Robotics and Automation (ICRA), 2018.
 Here is the video introducing this work: 
 https://youtu.be/A8H0zwN4Xp0
 
+
+![An example clip](https://github.com/daniilidis-group/drocap/Soccer2.gif)
+
 ## Dataset
 The DroCap dataset introduced in the paper can be downloaded from:
 http://visiondata.cis.upenn.edu/monocap/data.zip
